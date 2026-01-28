@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-For former clawdbot, check moltbot
+For former clawdbot, check [moltbot](https://github.com/moltbot)
